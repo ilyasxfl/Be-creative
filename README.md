@@ -1,2 +1,4 @@
 # Be-creative
-Show me your creavity
+Show me your creativity
+
+#project notes
